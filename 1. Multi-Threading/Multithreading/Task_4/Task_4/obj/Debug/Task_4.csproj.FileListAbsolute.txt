@@ -1,0 +1,6 @@
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\bin\Debug\Task_4.exe.config
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\bin\Debug\Task_4.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\bin\Debug\Task_4.pdb
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\obj\Debug\Task_4.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_4\Task_4\obj\Debug\Task_4.pdb

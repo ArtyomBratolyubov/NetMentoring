@@ -1,0 +1,7 @@
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\bin\Debug\Task_1.exe.config
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\bin\Debug\Task_1.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\bin\Debug\Task_1.pdb
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\obj\Debug\Task_1.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\obj\Debug\Task_1.pdb
+D:\Programming\NetMentoring\1. Multi-Threading\Async Await\Task_1\Task_1\obj\Debug\Task_1.csprojResolveAssemblyReference.cache

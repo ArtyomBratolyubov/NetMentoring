@@ -1,0 +1,7 @@
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\bin\Debug\Task_3.exe.config
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\bin\Debug\Task_3.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\bin\Debug\Task_3.pdb
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\obj\Debug\Task_3.exe
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\obj\Debug\Task_3.pdb
+D:\Programming\NetMentoring\1. Multi-Threading\Multithreading\Task_3\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
