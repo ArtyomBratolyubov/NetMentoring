@@ -1,0 +1,11 @@
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\bin\Debug\netcoreapp2.0\Task_1.deps.json
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\bin\Debug\netcoreapp2.0\Task_1.runtimeconfig.json
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\bin\Debug\netcoreapp2.0\Task_1.runtimeconfig.dev.json
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\bin\Debug\netcoreapp2.0\Task_1.dll
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\bin\Debug\netcoreapp2.0\Task_1.pdb
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.csprojResolveAssemblyReference.cache
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.AssemblyInfoInputs.cache
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.AssemblyInfo.cs
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.dll
+D:\Programming\NetMentoring\2. Expressions and IQueryable\Expression Tree\Task_1\Task_1\obj\Debug\netcoreapp2.0\Task_1.pdb

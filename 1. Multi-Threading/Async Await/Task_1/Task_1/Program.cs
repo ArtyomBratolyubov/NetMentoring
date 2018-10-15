@@ -11,7 +11,6 @@ namespace Task_1
 	{
 		static void Main(string[] args)
 		{
-
 			while (true)
 			{
 				CursorHelper.ClearLine(1);
