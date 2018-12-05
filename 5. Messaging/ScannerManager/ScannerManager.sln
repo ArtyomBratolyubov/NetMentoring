@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerManager", "ScannerManager\ScannerManager.csproj", "{957939FF-03EC-4A95-9A7B-733307B34F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerServiceApi", "ScannerServiceApi\ScannerServiceApi.csproj", "{A0A50403-A8AF-467C-B5BB-E527A8067AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957939FF-03EC-4A95-9A7B-733307B34F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957939FF-03EC-4A95-9A7B-733307B34F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957939FF-03EC-4A95-9A7B-733307B34F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957939FF-03EC-4A95-9A7B-733307B34F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A50403-A8AF-467C-B5BB-E527A8067AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A50403-A8AF-467C-B5BB-E527A8067AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A50403-A8AF-467C-B5BB-E527A8067AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A50403-A8AF-467C-B5BB-E527A8067AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA083F21-8D31-4FB7-BC7C-3E2B1FF23636}
+	EndGlobalSection
+EndGlobal

@@ -88,16 +88,7 @@ namespace Task_2
 
 		public void Dispose()
 		{
-			this.Dispose(true);
-			GC.SuppressFinalize(this);
-		}
-
-		protected virtual void Dispose(bool disposing)
-		{
-			if (disposing)
-			{
-				this.WebClient.Dispose();
-			}
+			this.WebClient.Dispose();
 		}
 	}
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLValidator", "XMLValidator\XMLValidator.csproj", "{37F6C9B0-671E-40D2-B451-20936A3BBEF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F6C9B0-671E-40D2-B451-20936A3BBEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F6C9B0-671E-40D2-B451-20936A3BBEF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F6C9B0-671E-40D2-B451-20936A3BBEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F6C9B0-671E-40D2-B451-20936A3BBEF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9AE9C4-46DD-487B-BA17-9285415E3C48}
+	EndGlobalSection
+EndGlobal
