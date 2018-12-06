@@ -38,6 +38,12 @@
 			this.OutputTB = new System.Windows.Forms.TextBox();
 			this.label3 = new System.Windows.Forms.Label();
 			this.openFileDialog = new System.Windows.Forms.OpenFileDialog();
+			this.XsltTB = new System.Windows.Forms.TextBox();
+			this.label4 = new System.Windows.Forms.Label();
+			this.BrowseXsltBtn = new System.Windows.Forms.Button();
+			this.ConvertBtn = new System.Windows.Forms.Button();
+			this.FileNameTB = new System.Windows.Forms.TextBox();
+			this.label5 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
 			// BrowseXmlBtn
@@ -96,7 +102,7 @@
 			// 
 			// ValidateBtn
 			// 
-			this.ValidateBtn.Location = new System.Drawing.Point(461, 299);
+			this.ValidateBtn.Location = new System.Drawing.Point(461, 407);
 			this.ValidateBtn.Name = "ValidateBtn";
 			this.ValidateBtn.Size = new System.Drawing.Size(77, 32);
 			this.ValidateBtn.TabIndex = 6;
@@ -106,7 +112,7 @@
 			// 
 			// OutputTB
 			// 
-			this.OutputTB.Location = new System.Drawing.Point(24, 139);
+			this.OutputTB.Location = new System.Drawing.Point(24, 247);
 			this.OutputTB.Multiline = true;
 			this.OutputTB.Name = "OutputTB";
 			this.OutputTB.ReadOnly = true;
@@ -116,7 +122,7 @@
 			// label3
 			// 
 			this.label3.AutoSize = true;
-			this.label3.Location = new System.Drawing.Point(21, 119);
+			this.label3.Location = new System.Drawing.Point(21, 227);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(55, 17);
 			this.label3.TabIndex = 8;
@@ -126,11 +132,70 @@
 			// 
 			this.openFileDialog.FileName = "openFileDialog1";
 			// 
+			// XsltTB
+			// 
+			this.XsltTB.Location = new System.Drawing.Point(85, 132);
+			this.XsltTB.Name = "XsltTB";
+			this.XsltTB.ReadOnly = true;
+			this.XsltTB.Size = new System.Drawing.Size(360, 22);
+			this.XsltTB.TabIndex = 11;
+			// 
+			// label4
+			// 
+			this.label4.AutoSize = true;
+			this.label4.Location = new System.Drawing.Point(21, 135);
+			this.label4.Name = "label4";
+			this.label4.Size = new System.Drawing.Size(65, 17);
+			this.label4.TabIndex = 10;
+			this.label4.Text = "XSLT file";
+			// 
+			// BrowseXsltBtn
+			// 
+			this.BrowseXsltBtn.Location = new System.Drawing.Point(461, 127);
+			this.BrowseXsltBtn.Name = "BrowseXsltBtn";
+			this.BrowseXsltBtn.Size = new System.Drawing.Size(77, 32);
+			this.BrowseXsltBtn.TabIndex = 9;
+			this.BrowseXsltBtn.Text = "Browse";
+			this.BrowseXsltBtn.UseVisualStyleBackColor = true;
+			this.BrowseXsltBtn.Click += new System.EventHandler(this.BrowseXsltBtn_Click);
+			// 
+			// ConvertBtn
+			// 
+			this.ConvertBtn.Location = new System.Drawing.Point(461, 169);
+			this.ConvertBtn.Name = "ConvertBtn";
+			this.ConvertBtn.Size = new System.Drawing.Size(77, 32);
+			this.ConvertBtn.TabIndex = 12;
+			this.ConvertBtn.Text = "Convert";
+			this.ConvertBtn.UseVisualStyleBackColor = true;
+			this.ConvertBtn.Click += new System.EventHandler(this.ConvertBtn_Click);
+			// 
+			// FileNameTB
+			// 
+			this.FileNameTB.Location = new System.Drawing.Point(85, 174);
+			this.FileNameTB.Name = "FileNameTB";
+			this.FileNameTB.Size = new System.Drawing.Size(360, 22);
+			this.FileNameTB.TabIndex = 14;
+			// 
+			// label5
+			// 
+			this.label5.AutoSize = true;
+			this.label5.Location = new System.Drawing.Point(10, 177);
+			this.label5.Name = "label5";
+			this.label5.Size = new System.Drawing.Size(69, 17);
+			this.label5.TabIndex = 13;
+			this.label5.Text = "File name";
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(550, 343);
+			this.ClientSize = new System.Drawing.Size(552, 451);
+			this.Controls.Add(this.FileNameTB);
+			this.Controls.Add(this.label5);
+			this.Controls.Add(this.ConvertBtn);
+			this.Controls.Add(this.XsltTB);
+			this.Controls.Add(this.label4);
+			this.Controls.Add(this.BrowseXsltBtn);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.OutputTB);
 			this.Controls.Add(this.ValidateBtn);
@@ -140,7 +205,10 @@
 			this.Controls.Add(this.XmlTB);
 			this.Controls.Add(this.label1);
 			this.Controls.Add(this.BrowseXmlBtn);
+			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+			this.MaximizeBox = false;
 			this.Name = "MainForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "MainForm";
 			this.ResumeLayout(false);
 			this.PerformLayout();
@@ -159,5 +227,11 @@
 		private System.Windows.Forms.TextBox OutputTB;
 		private System.Windows.Forms.Label label3;
 		private System.Windows.Forms.OpenFileDialog openFileDialog;
+		private System.Windows.Forms.TextBox XsltTB;
+		private System.Windows.Forms.Label label4;
+		private System.Windows.Forms.Button BrowseXsltBtn;
+		private System.Windows.Forms.Button ConvertBtn;
+		private System.Windows.Forms.TextBox FileNameTB;
+		private System.Windows.Forms.Label label5;
 	}
 }
